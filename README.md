@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Matias</h1>
+<h1 align="center">Hola 👋, Soy Matias</h1>
 <h3 align="center">Un intento de programador que todavia no sabe como no se adentro antes a todo este mundo de la programación.</h3>
 
-- 🔭 Ahora mismo estoy trabajando en mi Portfolio **Porfolio Personal**
+- 🔭 Ahora mismo estoy trabajando en mi **Porfolio Personal**
 
 - 🌱 Estoy aprendiendo un poco de **Sql, Hadoop, Python, Django, Flask,**
 
