@@ -5,7 +5,7 @@
 
 - 🌱 Estoy aprendiendo un poco de **Sql, Hadoop, Python, Django, Flask,**
 
-- 📫 Si querieres podemos escribirme aqui **matiaszzz133@gmail.com**
+- 📫 Si quieres podes escribirme aqui **matiaszzz133@gmail.com**
 
 - 📄 Aqui podes ver mi Linkedin [https://www.linkedin.com/in/matias-ramirez-8107491b7/](https://www.linkedin.com/in/matias-ramirez-8107491b7/)
 
