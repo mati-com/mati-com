@@ -3,8 +3,6 @@
 
 <br/>  
 
-
-## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 Actualmente estoy trabajando en mi Portfolio  
@@ -53,19 +51,7 @@
 
 
 
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
+</td></tr></table>
 <br />
 
 ----
