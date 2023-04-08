@@ -46,7 +46,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/mati-com/mati-com/blob/output/snake.svg" alt="Snake animation" />
-
-###
