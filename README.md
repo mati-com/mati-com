@@ -1,6 +1,14 @@
-<br clear="both">
-
 <h2 align="center">Hi 👋!</h2>
+
+###
+
+<img align="right" height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZlNWQ4ZWRiY2EwNmFlYmExMThhMzE2ZDQzY2MwMTUzZjVhMTFiNyZjdD1n/rzeWnbH8Uc5Y4/giphy.gif"  />
+
+###
+
+<img align="left" height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZlNTM2ZGJhYmYwOTBiYTEzN2IyNzhlYmMyNzU4OTgxN2EwOWRhZSZjdD1n/JUwa2qSoTwcxv0gFJh/giphy.gif"  />
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
@@ -30,17 +38,11 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mati-com&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=2" height="120" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mati-com&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="120" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mati-com&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="130" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mati-com&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="130" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZlNWQ4ZWRiY2EwNmFlYmExMThhMzE2ZDQzY2MwMTUzZjVhMTFiNyZjdD1n/rzeWnbH8Uc5Y4/giphy.gif"  />
-
-###
-
-<img align="left" height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZlNTM2ZGJhYmYwOTBiYTEzN2IyNzhlYmMyNzU4OTgxN2EwOWRhZSZjdD1n/JUwa2qSoTwcxv0gFJh/giphy.gif"  />
 
 ###
