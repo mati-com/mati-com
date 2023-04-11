@@ -36,7 +36,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mati-com&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=swift&hide_border=true&order=2" height="140" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=mati-com&locale=en&mode=daily&theme=swift&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=mati-com&locale=en&mode=weekly&theme=swift&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
 </div>
 
 ###
